@@ -1,0 +1,8 @@
+HELP.md
+
+.setting
+.classpath
+setting.gradle
+.project
+/bin
+.gradle
